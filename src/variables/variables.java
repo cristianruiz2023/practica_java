@@ -7,10 +7,17 @@ public class variables {
 		 * 4 tipos de datos
 		 * 
 		 * enteros
+		 * 		byte
+		 * 		short
+		 * 		int 
+		 * 		long
 		 * decimales
+		 * 		float
+		 * 		double
 		 * caracteres
 		 * booleanos
-		 * 
+		 * 		true
+		 * 		false
 		 * */
 		
 		int version;
